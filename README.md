@@ -28,7 +28,7 @@ To use this application, click on the "Get Started" button. You will be taken to
 
 ![Screenshot](/public/assets/noteTaker.png)
 
-
+[Link to deployed application](https://calebs-notetaker-6021d88845fe.herokuapp.com/)
 
 
 ## License
