@@ -1,7 +1,17 @@
 [
     {
-        "title": "Test",
-        "text": "Test",
-        "id": "a10e4a5f-9a07-4894-9cfd-3fc3e7dfcb5d"
+        "title": "Groceries",
+        "text": "eggs\nham\ncheese\npaper towels\n",
+        "id": "3e321ed2-aa31-46e4-b12d-521d645517e2"
+    },
+    {
+        "title": "Homework",
+        "text": "math\nscience\nenglish\n",
+        "id": "7bfbd8a0-9235-413d-90c4-f34effcf0ac2"
+    },
+    {
+        "title": "TO-DO",
+        "text": "Test this app",
+        "id": "656e8398-695b-4f91-b61e-fe7272dc75d1"
     }
 ]
